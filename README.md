@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Web Techs**
 
-- 👯 I’m looking to collaborate on [Cryto Trading Bots](-)
+- 👯 I’m looking to collaborate on Cryto Trading Bots(-)
 
-- 🤝 I’m looking for help with [Voice Manipulation App](-)
+- 🤝 I’m looking for help with Voice Manipulation App(-)
 
-- 👨‍💻 All of my projects are available at [my local :)](-)
+- 👨‍💻 All of my projects are available at my local :)(-)
 
 - 📝 I regularly write articles on [-](-)
 
