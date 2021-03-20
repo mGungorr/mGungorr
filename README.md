@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgungorr&label=Profile%20views&color=0eb4b1&style=flat" alt="mgungorr" /> </p>
 
-- 🔭 I’m currently working on [Voice Manipulation App] it will be on Github in short time.(-)
+- 🔭 I’m currently working on Voice Manipulation App it will be on Github in short time.
 
 - 🌱 I’m currently learning **Web Techs**
 
@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at my local :)
 
-- 📝 I regularly write articles on [-](-)
+- 📝 I regularly write articles on [-]
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **mustafa.gungor.6634@gmail.com**
 
-- 📄 Know about my experiences [-](-)
+- 📄 Know about my experiences [-]
 
 - ⚡ Fun fact **-**
 
