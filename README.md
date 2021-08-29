@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mustafa Güngör</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=0FA4A1&size=30&lines=Hi%F0%9F%91%8B%2C+I'm+Mustafa+G%C3%BCng%C3%B6r)">
+</h1>
+
 <h3 align="center">A passionate developer that loves learning new things...</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mgungorr&label=Profile%20views&color=0eb4b1&style=flat" alt="mgungorr" /> </p>
@@ -12,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Voice Manipulation App**
 
-- 👨‍💻 All of my projects are available on **my local right now:)**
+- 👨‍💻 All of my projects are available on **my local right now :)**
 
 - 💬 Ask me about **anything**
 
